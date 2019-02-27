@@ -12,14 +12,14 @@ Some pre-trained model weights are provided. A GPU is preferred for training.
 
 File | Description
 ------------------|-------------------
-navigation_project.ipynb | main ipython file
+navigation_project.ipynb | Main ipython file
 Banana_Linux | Unity code repository
-dqn_agent.py | learning agent
+dqn_agent.py | Learning agent
 model.py | PyTorch network model
-checkpoint.pth | model weights
-install.sh | installation
-requirements.txt | necessary modules
-README.md | this file
+checkpoint.pth | Model weights
+install.sh | Installation
+requirements.txt | Necessary modules
+README.md | This file
 
 
 ## Installation
