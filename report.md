@@ -11,25 +11,13 @@ Two improvements to the basic Q-Learning algorithm are included: experience repl
 ## Outcome
 
 ```
-Episode 100	Average Score: 0.12
-Episode 200	Average Score: 0.62
-Episode 300	Average Score: 1.09
-Episode 400	Average Score: 2.40
-Episode 500	Average Score: 2.94
-Episode 600	Average Score: 3.89
-Episode 700	Average Score: 5.44
-Episode 800	Average Score: 6.29
-Episode 900	Average Score: 6.88
-Episode 1000	Average Score: 7.91
-Episode 1100	Average Score: 8.20
-Episode 1200	Average Score: 9.34
-Episode 1300	Average Score: 10.03
-Episode 1400	Average Score: 9.821
-Episode 1500	Average Score: 10.55
-Episode 1600	Average Score: 11.34
-Episode 1700	Average Score: 11.61
-Episode 1722	Average Score: 12.00
-Environment solved in 1622 episodes!	Average Score: 12.00
+Episode 100	Average Score: 1.15
+Episode 200	Average Score: 5.15
+Episode 300	Average Score: 7.89
+Episode 400	Average Score: 10.92
+Episode 471	Average Score: 13.04
+Environment solved in 371 episodes!	Average Score: 13.04
+
 ```
 
 ![training](training.png)
