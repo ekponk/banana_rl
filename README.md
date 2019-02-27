@@ -20,6 +20,7 @@ checkpoint.pth | Model weights
 install.sh | Installation
 requirements.txt | Necessary modules
 report.md | Report on the project
+training.png | Image
 README.md | This file
 
 
