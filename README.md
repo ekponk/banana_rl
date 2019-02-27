@@ -1,4 +1,4 @@
-## Project Instructions
+## Banana Game Reinforcement Learning
 
 This is an example of reinformcement learning in a simple game environment.
 The goal is to pick up as many of the yellow bananas as possible. 
