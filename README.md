@@ -1,6 +1,6 @@
 ## Banana Game Reinforcement Learning
 
-This is an example of reinformcement learning in a simple game environment.
+This is an example of Deep Q Network reinformcement learning in a simple game environment.
 The goal is to pick up as many of the yellow bananas as possible. 
 Yellow bananas are rewarded positively, while Blue bananas are penalized.
 
@@ -25,7 +25,9 @@ README.md | this file
 ## Installation
 
 1. Clone the assocated repository
-2. Run the install.sh file
+2. Run the install.sh file `source install.sh`
+3. `jupyter-notebook navigation_project.ipynb`
+4. Follow the instructions in the notebook 
 
 
 
