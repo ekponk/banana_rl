@@ -19,6 +19,7 @@ model.py | PyTorch network model
 checkpoint.pth | Model weights
 install.sh | Installation
 requirements.txt | Necessary modules
+report.md | Report on the project
 README.md | This file
 
 
