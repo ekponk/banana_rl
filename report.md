@@ -15,9 +15,11 @@ Two improvements to the basic Q-Learning algorithm are implemented: experience r
 
 The model consists of three fully-connected layers, with sizes as follows: 
 
-fc1: input states (37) x 64
-fc2: 64 x 64
-fc3: 64 x output actions (4)
+Layer | Description
+------|------------
+fc1| input states (37) x 64
+fc2| 64 x 64
+fc3| 64 x output actions (4)
 
 All other model values are Torch defaults.
 
