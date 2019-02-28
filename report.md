@@ -6,6 +6,7 @@ The environment has 37 states. Four actions are available: forward, backward, le
 
 Two improvements to the basic Q-Learning algorithm are included: experience replay, and fixed Q-targets.
 
+The model consists of three fully-connected layers, of size 64. The input is the system state, and the output is the number of available actions (4). 
 
 
 ## Outcome
