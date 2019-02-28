@@ -6,6 +6,19 @@ Yellow bananas are rewarded positively, while Blue bananas are penalized.
 
 Some pre-trained model weights are provided. A GPU is preferred for training.
 
+For more information, please see the Introduction to the original github project [here] ( https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation ).
+
+## Environment
+
+This is an example of Deep Q Network reinformcement learning in a simple game environment.
+The goal is to pick up as many of the yellow bananas as possible. 
+Yellow bananas are rewarded positively, while Blue bananas are penalized.
+
+The environment is provided as a custom Unity project from Udacity, found here in the `Banana_Linux` folder.
+The original Linux environment can be downloaded [here] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip).
+The environment has 37 states. Four actions are available: forward, backward, left and right.
+
+Two improvements to the basic Q-Learning algorithm are implemented: experience replay, and fixed Q-targets.
 
 ## Manifest
 
